@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39428'
     url: http://www.gutenberg.org/2009/agents/39428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38375#Religion-In-The-HeavensOr-Mythology-Unveiled-in-a-Series-of-Lectures
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
