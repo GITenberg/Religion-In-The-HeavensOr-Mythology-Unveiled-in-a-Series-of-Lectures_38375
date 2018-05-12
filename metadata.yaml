@@ -1,0 +1,25 @@
+_repo: Religion-In-The-HeavensOr-Mythology-Unveiled-in-a-Series-of-Lectures_38375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Logan
+    gutenberg_agent_id: '39428'
+    url: http://www.gutenberg.org/2009/agents/39428
+description: ''
+gutenberg_issued: '2011-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion'
+- !lcsh 'Religion -- Controversial literature'
+- !lcc 'BL'
+title: Religion in the Heavens; Or, Mythology Unveiled in a Series of Lectures
+url: http://www.gutenberg.org/ebooks/38375
